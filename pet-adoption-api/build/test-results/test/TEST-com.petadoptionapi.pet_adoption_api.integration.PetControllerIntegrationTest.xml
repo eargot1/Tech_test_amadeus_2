@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-06-19T12:59:12.284Z" hostname="CO000MMP939VV2T" time="0.486">
+  <properties/>
+  <testcase name="update status correctly()" classname="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" time="0.115"/>
+  <testcase name="delete single pet correctly()" classname="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" time="0.095"/>
+  <testcase name="get all pets correctly()" classname="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" time="0.096"/>
+  <testcase name="create pet correctly()" classname="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" time="0.091"/>
+  <testcase name="get single pet correctly()" classname="com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest" time="0.088"/>
+  <system-out><![CDATA[2025-06-19T07:59:12.279-05:00  INFO 82989 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest]: PetControllerIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-19T07:59:12.281-05:00  INFO 82989 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.petadoptionapi.pet_adoption_api.PetAdoptionApiApplication for test class com.petadoptionapi.pet_adoption_api.integration.PetControllerIntegrationTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:mysql://db:3306/pet_adoption
+    username: admin
+    password: local
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+    default-property-inclusion: NON_NULL
+    deserialization:
+      fail-on-unknown-properties: false
+      fail-on-null-for-primitives: true
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    enabled: true
