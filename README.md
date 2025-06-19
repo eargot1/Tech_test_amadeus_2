@@ -1,5 +1,7 @@
 # Pet Adoption App
 
+Disclaimer: if the pushes seems like from another person is because of the pc i pushed the repo
+
 This is a full-stack pet adoption application with a Vue.js frontend, a Spring Boot (Kotlin) backend, and a MySQL database.  
 Everything runs easily with Docker Compose.
 
