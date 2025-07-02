@@ -31,8 +31,8 @@ Everything runs easily with Docker Compose.
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/eargot1/Tech_test_amadeus_2.git
+   cd Tech_test_amadeus_2
    ```
 
 2. **Build and start all services:**
